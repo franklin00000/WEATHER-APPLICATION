@@ -13,4 +13,4 @@ MENTOR:NEELA SANTOSH
 ##YOU HAVE TO ENTER DESCRIOTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
 ##OUTPUT
-![Image](https://github.com/user-attachments/assets/7bae20ca-abe4-4ae3-9602-8c98e82ad0a2)
+![Image](https://github.com/user-attachments/assets/31acba97-b4ae-4565-920c-c8e0207a4cef)
